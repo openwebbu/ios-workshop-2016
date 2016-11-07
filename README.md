@@ -1,1 +1,3 @@
-# ios-workshop-2016
+#  Target Hitter Source Code
+
+Master source code for Open Web's Intro to iOS Development Workshop
